@@ -94,6 +94,7 @@
 		894D53C86DAC4C1E1495FE3C /* ofxKinectExtras.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 05A63FD6FEF21A7C568E34E1 /* ofxKinectExtras.cpp */; };
 		8C5158524EF666A7F217396D /* ofxTLImageTrack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = F912B0ADF0D4EED216A8F5AD /* ofxTLImageTrack.cpp */; };
 		8E9B02A21FF14B3B005E36B8 /* OpenAL.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E9B02A11FF14B3B005E36B8 /* OpenAL.framework */; };
+		8E9B02AB1FF15464005E36B8 /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 8E9B02AA1FF15464005E36B8 /* README.md */; };
 		8FDD92E3422694B8FE31E2B0 /* ofxRemoveCocoaMenu.mm in Sources */ = {isa = PBXBuildFile; fileRef = D58CFFA231A2480FCE25680E /* ofxRemoveCocoaMenu.mm */; };
 		92CEF03E3752C20089FF10AB /* ofxCvColorImage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 1EC62FBFA55C4818DADAFB96 /* ofxCvColorImage.cpp */; };
 		9533E3B4FEB3F6E988C2F323 /* LineAction.cpp in Sources */ = {isa = PBXBuildFile; fileRef = A5FB2F67C274C54154C22FC8 /* LineAction.cpp */; };
@@ -477,6 +478,7 @@
 		8AE97A8C0AA9F4C820EEE81B /* ofxUIDefines.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxUIDefines.h; path = ../../of_v0.9.8_osx_release/addons/ofxUI/src/ofxUIDefines.h; sourceTree = SOURCE_ROOT; };
 		8D7496090AE46A2DC710C31F /* Rules.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; fileEncoding = 30; name = Rules.cpp; path = ../../of_v0.9.8_osx_release/addons/ofxRules/src/Rules.cpp; sourceTree = SOURCE_ROOT; };
 		8E9B02A11FF14B3B005E36B8 /* OpenAL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OpenAL.framework; path = System/Library/Frameworks/OpenAL.framework; sourceTree = SDKROOT; };
+		8E9B02AA1FF15464005E36B8 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8F97D820C1FCDD9095FE2031 /* ftDensityVec2Multiplier.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ftDensityVec2Multiplier.h; path = ../../of_v0.9.8_osx_release/addons/ofxFlowTools/src/tools/ftDensityVec2Multiplier.h; sourceTree = SOURCE_ROOT; };
 		8FBA6773AD6242F92D07BC3B /* stitcher.hpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = stitcher.hpp; path = ../../of_v0.9.8_osx_release/addons/ofxOpenCv/libs/opencv/include/opencv2/stitching/stitcher.hpp; sourceTree = SOURCE_ROOT; };
 		8FE598544801003D66063A3E /* ofxEasingQuart.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.c.h; fileEncoding = 30; name = ofxEasingQuart.h; path = ../../of_v0.9.8_osx_release/addons/ofxTween/src/Easings/ofxEasingQuart.h; sourceTree = SOURCE_ROOT; };
@@ -1973,6 +1975,7 @@
 		E4B69B4A0A3A1720003C02F2 = {
 			isa = PBXGroup;
 			children = (
+				8E9B02AA1FF15464005E36B8 /* README.md */,
 				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
 				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
 				E4B69E1C0A3A1BDC003C02F2 /* src */,
@@ -2305,6 +2308,7 @@
 				C594CC75F8260F1A7314D576 /* ofxUI2DGraph.cpp in Sources */,
 				CC12849638F413E323778DED /* ofxUI2DPad.cpp in Sources */,
 				50E332F228DB0F1C11B79F35 /* ofxUIBaseDraws.cpp in Sources */,
+				8E9B02AB1FF15464005E36B8 /* README.md in Sources */,
 				075CB9FBD20CF2B7075F3D5F /* ofxUIBiLabelSlider.cpp in Sources */,
 				DA180FDE9B301E3FD57EE9A7 /* ofxUIButton.cpp in Sources */,
 				9E3067EA9B177E82DE2BC807 /* ofxUICanvas.cpp in Sources */,
